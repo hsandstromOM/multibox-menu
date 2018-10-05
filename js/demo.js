@@ -1,4 +1,6 @@
 
+{
+    // Class Menu.
     class Menu {
         constructor(el) {
             this.DOM = {el: el};
